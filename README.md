@@ -1,5 +1,7 @@
 math-js
 ========
+
+-- fix readme
 Mathematical Solutions Library
 
 Euler function
